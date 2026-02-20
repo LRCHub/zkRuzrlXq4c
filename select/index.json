@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スペリオール",
+  "base_artist": "Tonbi",
+  "createdAt": "2026-02-20T09:00:39.474525Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スペリオール",
+      "artist": "Tonbi, あみくん",
+      "has_synced": false,
+      "path": "select/pl_01_スペリオール_Tonbi,_あみくん.txt"
+    }
+  ]
+}
